@@ -5,12 +5,11 @@ This repository contains my practical work and test documentation for various we
 ## 📝 Test Case Documentation
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **OpenCart** | Functional testing of Login & Signup modules | [View Google Sheet]((https://docs.google.com/spreadsheets/d/1bZYu-HuJCA_2hK8ydLVjU219Xa-aimcc6-m6CgpANwE/edit?usp=sharing)) |
-
+| **OpenCart** | Functional testing of Login & Signup modules |[View Google Sheet](https://docs.google.com/spreadsheets/d/1bZYu-HuJCA_2hK8ydLVjU219Xa-aimcc6-m6CgpANwE/edit?usp=sharing)
 ## 📝 Test Case Documentation
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Buggys Car Rating** | Test Cases | [View Google Sheet]((https://docs.google.com/spreadsheets/d/1S3y3uCxLOkJqWhRs8ZzhkBKrL3bJ_b3YaAiZAqReRxY/edit?usp=sharing)) |
+| **Buggys Car Rating** | Test Cases | [View Google Sheet](https://docs.google.com/spreadsheets/d/1S3y3uCxLOkJqWhRs8ZzhkBKrL3bJ_b3YaAiZAqReRxY/edit?usp=sharing)
 ## 🐞 Bug Reporting
 | Project | Tool Used | Link |
 | :--- | :--- | :--- |
